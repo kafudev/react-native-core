@@ -4,6 +4,7 @@
   "description": "react-native核心包、依赖",
   "main": "index.js",
   "files": [
+    "patches",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__"
