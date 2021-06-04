@@ -33,12 +33,13 @@
     "access": "public"
   },
   "dependencies": {
-    "@0x5e/react-native-alipay": "^0.2.7-beta.2",
     "@eva-design/eva": "^2.1.0",
     "@eva-design/material": "^2.1.0",
     "@kafudev/jcore-react-native": "^2.0.5",
     "@kafudev/jpush-react-native": "^2.0.5",
-    "@kafudev/react-native-bugly": "^0.1.11",
+    "@kafudev/react-native-alibc": "^0.1.8",
+    "@kafudev/react-native-alipay": "^0.1.6",
+    "@kafudev/react-native-bugly": "^0.1.12",
     "@kafudev/react-native-orientation": "^0.1.7",
     "@kafudev/react-native-qiyu": "^0.1.43",
     "@kafudev/react-native-txlive": "^0.1.37",
